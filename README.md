@@ -1,0 +1,2 @@
+# book-commerce-app
+Udemy「電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座」の学習用レポジトリ
